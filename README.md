@@ -1,3 +1,5 @@
 rebase-and-merge
 
+README edit.
+
 Parallel commit.
